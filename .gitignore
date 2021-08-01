@@ -8,3 +8,7 @@ bin/
 *.gch
 __pycache__
 test.log
+
+.idea
+cmake-build-debug-stdout
+cmake-build-debug-uinput
